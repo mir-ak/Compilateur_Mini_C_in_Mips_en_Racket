@@ -1,0 +1,11 @@
+int b = 9;
+int a = 45;
+print_num(a + b);
+print_nl();
+print_num(a - b);
+print_nl();
+print_num(a * b);
+print_nl();
+print_num(a / b);
+print_nl();
+//int a = 5 ;

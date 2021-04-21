@@ -1,0 +1,10 @@
+int a = 4 ;
+int b = 7 ;
+print_num(a & b);
+print_nl();
+print_num(a | b);
+print_nl();
+print_num(a ^ b);
+print_nl();
+print_num(a ~ b);
+print_nl();
